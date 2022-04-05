@@ -6,7 +6,17 @@
     <description>Recent content in Launch X Bitácora de viaje on Bitácora de Viaje</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Feb 2022 18:16:21 -0600</lastBuildDate><atom:link href="https://arthur-r2d2.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 05 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://arthur-r2d2.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mi ruta de aprendizaje en LaunchX</title>
+      <link>https://arthur-r2d2.github.io/my_launchx_blog/posts/post_1/</link>
+      <pubDate>Tue, 05 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://arthur-r2d2.github.io/my_launchx_blog/posts/post_1/</guid>
+      <description>¡Hola Xplorers! Les contaré lo que he aprendido en las Misiones de LaunchX:
+ Python Git y GitHub Lógica de programación Línea de comandos Maquetación de páginas web Crear Mockups y Wireframes Diseño responsive HTML CSS JavaScript VUEJS Angular Andar al 100, al 1000 y al 1000000 :D  </description>
+    </item>
+    
     <item>
       <title>La Cultura de un Desarrollador de Software</title>
       <link>https://arthur-r2d2.github.io/my_launchx_blog/posts/intro/</link>
