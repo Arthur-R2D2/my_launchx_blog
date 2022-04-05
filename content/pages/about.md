@@ -5,17 +5,22 @@ menu:
     name: "AboutMe"
 ---
 
-## Who am I
+## ¿Quién soy yo?
 
 Hola, aquí vas a leer un poco sobre mi 🤩
 
-> Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit
-> adfusique imis amplexus. Agmina per fabricator
-> mittere Erymanthon habetque tot.
+> ¡Hola Xplorers! Me llamo Arturo, pero me gusta que me digan Arthurs o también R2-D2 
+> (lo tienes que leer en inglés para que suene como 'Arturito') Estoy muy contento de ser parte
+> de la tripulación de LaunchX de Inocacción Virtual.
 
-**Cineres Nile ipsa** origine discurrunt adest Unde, et quem clausus, imo,
-virens quoque tales, potuit. Ingentes insilit corpore nutricis praebebat roganti
-licuit. Denique a vestros adulantum in bella lina parte et arte generi di igitur
-quis, digitis pedes. Cum resonant tamen, namque in anxia. Non nostri trahens
-ancora.
+Tengo 25 años, soy egresado de la carrera de Informática en la Fcultad de Contaduría y Administración (FCA) de la Universidad Nacional Autónoma de México.
+Desde cuarto semestre me interesé por el Diseño Web y durante la pandemía me interesé por la Ciberseguridad. Un dato curioso es que yo nunca me imaginé estudiar 
+una carrera sobre tecnología, ya que cuando era pequeño siempre quise estudiar Gastronomía, pero por cuestiones del destino puedo decir con orgullo que terminé
+mis estudios, espero en algún momento de mi vida estudiar Gastronomía. Por si se lo preguntan, sí, mi película favorita de toda la vida es Ratatouille :D
+Mis hoobies además del Diseño Web son el Running, me gusta salir a correr eso me ayuda a liberar todo el estrés que llevo dentro, no soy profesional ni nada por el 
+estilo pero lo disfruto mucho. Tambien otro de mis hoobies es ir al cine, por lo menos una vez al mes me gusta ir, si se pueden más veces mucho mejor. 
+Me gusta también salir andar en bici por la ciudad en compañía de mis amigos y por último otro de mis hoobies que disfruto mucho es tomar fotos, no soy profesional 
+ni nada por el estilo, sólo un fotógrafo aficionado si gustan pueden seguirme en Instagram para que vean las fotos que suelo tomar, pueden encontrarme como 
+@soy_r2d2_
+
 
